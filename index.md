@@ -11,11 +11,14 @@ This is a 4x4 sampling rate GIF of bouncing dragons.
 All test images below are 4x4.
 
 Below, we show that glm::interpolate can interpolate correctly for rotations, not only translations.
-![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/rota4x4.bmp)
+
+![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/rota.png)
 
 This is the first translation of the animation, with the least movement.
-![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/1.1.bmp)
+
+![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/1.png)
 
 This is the translation frame with the greatest movement.
-![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/3.1.bmp)
+
+![DRAGONS](https://raw.githubusercontent.com/rnlee0054/MotionBlurRayTracer/master/Images/3.png)
 
